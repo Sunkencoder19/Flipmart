@@ -131,8 +131,8 @@ grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4
 ### **Clone & Install**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/flipmart.git
-cd flipmart
+git clone https://github.com/Sunkencoder19/Flipmart.git
+cd Flipmart
 
 # Install dependencies
 npm install
@@ -248,11 +248,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**[Your Name]**
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-- Email: [your-email]
+**Anshuman**
+- GitHub: [@Sunkencoder19](https://github.com/Sunkencoder19)
+- Project Repository: [FlipMart](https://github.com/Sunkencoder19/Flipmart)
+- Portfolio: [Coming Soon]
+- Email: [Contact via GitHub]
 
 ---
 
