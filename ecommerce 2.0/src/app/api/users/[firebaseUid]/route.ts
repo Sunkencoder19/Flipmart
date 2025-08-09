@@ -2,7 +2,9 @@ import { NextRequest, NextResponse } from 'next/server'
 import dbConnect from '@/lib/mongodb'
 import User from '@/models/User'
 
-// GET /api/users/[firebaseUid] - Get user by Firebase UID
+// Force dynamic rendering for this API route
+export const dynamic = 'force-dynamic'
+
 export async function GET(
   request: NextRequest,
   { params }: { params: { firebaseUid: string } }

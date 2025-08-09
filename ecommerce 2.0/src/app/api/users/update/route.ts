@@ -2,6 +2,9 @@ import { NextRequest, NextResponse } from 'next/server'
 import dbConnect from '@/lib/mongodb'
 import User from '@/models/User'
 
+// Force dynamic rendering for this API route
+export const dynamic = 'force-dynamic'
+
 export async function PUT(request: NextRequest) {
   try {
     await dbConnect()

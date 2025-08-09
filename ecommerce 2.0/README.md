@@ -18,6 +18,8 @@
 <div align="center">
   <h3>A full-featured, responsive e-commerce platform built with modern web technologies</h3>
   <p>🇮🇳 Localized for the Indian market with INR pricing and local contact information</p>
+  
+  <h4>🚀 <a href="https://flipmart-two.vercel.app" target="_blank">View Live Demo</a> 🚀</h4>
 </div>
 
 ---
