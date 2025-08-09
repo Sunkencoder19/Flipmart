@@ -256,22 +256,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](docs/screenshots/homepage.png)
-
-### Product Catalog
-![Products](docs/screenshots/products.png)
-
-### Product Detail
-![Product Detail](docs/screenshots/product-detail.png)
-
-### Shopping Cart
-![Cart](docs/screenshots/cart.png)
-
----
-
 <div align="center">
   <h3>⭐ If you found this project helpful, please give it a star! ⭐</h3>
   <p>Built with ❤️ for the modern web</p>
