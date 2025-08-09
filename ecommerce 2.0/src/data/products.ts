@@ -61,7 +61,7 @@ export const products: Product[] = [
     "description": "Elegant set of 4 ceramic coffee mugs with modern design. Microwave and dishwasher safe. Perfect for home or office use.",
     "price": 1299,
     "category": "Home & Garden",
-    "images": ["https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?w=500"],
+    "images": ["https://images.unsplash.com/photo-1541167760496-1628856ab772?w=500"],
     "stock": 60,
     "rating": { "average": 4.6, "count": 78 }
   },
@@ -161,7 +161,7 @@ export const products: Product[] = [
     "description": "Professional 5-piece kitchen knife set with wooden block. Sharp, durable blades perfect for all cooking needs.",
     "price": 5499,
     "category": "Home & Garden",
-    "images": ["https://images.unsplash.com/photo-1593618998161-11c81e14d4bb?w=500"],
+    "images": ["https://images.unsplash.com/photo-1594736797933-d0301ba8ffba?w=500"],
     "stock": 20,
     "rating": { "average": 4.8, "count": 94 }
   },
